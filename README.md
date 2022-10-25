@@ -1,4 +1,4 @@
-# Lidl-SilverCrest-Zigbee-Gateway-TYGWZ-01--Root-and-Update-Notes-2022
+# Lidl-SilverCrest-Zigbee-Gateway-TYGWZ-01-Root-and-Update-Notes-2022
 This is a repo with updated instructions for 2022 in a single spot to root, add serial and update EZSP on your Lidl/Silvercrest zigbee gateway
 
 <h2>Retrieve Root Password</h2>
